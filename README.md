@@ -1,6 +1,4 @@
 # Sistema_Gestion_Biblioteca
-=======
-# Sistema_Gestion_Biblioteca
 
 Repositorio: https://github.com/katzzz1/Sistema_Gestion_Biblioteca
 
