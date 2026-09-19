@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistema_Gestion_Biblioteca
 =======
 # Sistema_Gestion_Biblioteca
@@ -160,4 +159,4 @@ El proyecto está funcional y cuenta con CRUD completo para socios, libros y pr�
 ## Autor
 
 Pardo Katia
->>>>>>> 7fac998 (Primera versión del sistema de biblioteca)
+
