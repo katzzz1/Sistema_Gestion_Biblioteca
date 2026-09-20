@@ -1,7 +1,5 @@
 # Sistema_Gestion_Biblioteca
 
-Repositorio: https://github.com/katzzz1/Sistema_Gestion_Biblioteca
-
 ## Descripción del proyecto
 
 Este proyecto es una aplicación de escritorio desarrollada en Python con Tkinter y SQLite para gestionar una biblioteca. Permite administrar socios, libros y préstamos con operaciones CRUD completas: alta, baja, modificación y listado.
